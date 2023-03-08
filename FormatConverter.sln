@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormatConverter", "FormatConverter\FormatConverter.csproj", "{B63C5FC1-7346-4EF4-9CE8-03F401DD6E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatConverterTests", "FormatConverterTests\FormatConverterTests.csproj", "{89925CAB-DF4B-422F-9EF7-282F4BAB72CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63C5FC1-7346-4EF4-9CE8-03F401DD6E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63C5FC1-7346-4EF4-9CE8-03F401DD6E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63C5FC1-7346-4EF4-9CE8-03F401DD6E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63C5FC1-7346-4EF4-9CE8-03F401DD6E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89925CAB-DF4B-422F-9EF7-282F4BAB72CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89925CAB-DF4B-422F-9EF7-282F4BAB72CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89925CAB-DF4B-422F-9EF7-282F4BAB72CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89925CAB-DF4B-422F-9EF7-282F4BAB72CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {453CAD11-2720-4B1D-A60B-62738A611E95}
+	EndGlobalSection
+EndGlobal

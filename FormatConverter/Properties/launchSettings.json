@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FormatConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "/InputFile TestFiles/testXMLFile.xml /OutputFile TestFiles\\testOutput.json /InputFormat XML /OutputFormat JSON /StorageInput FileSystem /StorageOutput FileSystem"
+    }
+  }
+}
