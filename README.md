@@ -1,7 +1,7 @@
 # FormatConverter
 
 Note on arguments:
-There are six of them, all required. They should be written in the following format: /argument value
+There are six of them, all required. They should be written in the following format: /argument value        
 List of arguments: /InputFile  /OutputFile  /InputFormat  /OutputFormat  /StorageInput   /StorageOutput
 
 Example XML to JSON: 
